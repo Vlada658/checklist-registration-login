@@ -22,4 +22,4 @@
 - **ID3 — User Logout**  👉https://rusau.kaiten.ru/p/d/1f464f17-8de7-4f54-992c-11e9fa5fd646
 - **ID4 — Authorization Check before Accessing Functionality**  👉https://rusau.kaiten.ru/p/d/d440e1db-3645-48f3-8510-686704dcf09c
 
-Результат: https://docs.google.com/spreadsheets/d/1GtdJZ1ng8PKO0bExtVcLx6-w5aMY1GCpYMjN0FdZg7g/edit?usp=sharing
+Результат: [https://docs.google.com/spreadsheets/d/1GtdJZ1ng8PKO0bExtVcLx6-w5aMY1GCpYMjN0FdZg7g/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ScUawjygvlPfgW7uZ7yZKy4QUip1AXJ6uU6RvgBJTmY/edit?usp=sharing)
